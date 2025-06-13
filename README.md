@@ -7,4 +7,5 @@ Files:
 
 ## How to run
 
-You can run this notebook locally or launch it on Binder
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo-name/blob/branch/path/to/notebook.ipynb)
+
